@@ -149,12 +149,10 @@ main {
     }
 
     .gItem--3 {
-        grid-row: span 2;
         grid-column: span 2;
     }
 
     .gItem--6 {
-        grid-row: span 2;
         grid-column: span 2;
     }
 }
@@ -171,12 +169,10 @@ main {
     }
 
     .gItem--3 {
-        grid-row: span 1;
         grid-column: span 1;
     }
 
     .gItem--6 {
-        grid-row: span 1;
         grid-column: span 1;
     }
 }
